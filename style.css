@@ -1,0 +1,70 @@
+.page-section {
+	width: 100%;
+	min-height: 800px;
+  padding: 40px 0;
+	border-bottom: 10px solid #fff;
+}
+
+.page-section h1 {
+  font-family: kurale;
+	font-size: 5em;
+	margin: 12px 0;
+  font-weight: bold;
+  font-style: italic;
+  font-color: black;
+}
+
+.page-section h2 {
+  font-family: kurale;
+	font-size: 1.5em;
+	margin: 12px 0;
+  font-weight: bold;
+  font-color: black;
+}
+
+.page-section h3 {
+  font-family: kurale;
+	font-size: 1.75em;
+	margin: 12px 0;
+  font-weight: bold;
+  font-color: white;
+}
+
+
+
+.page-section ul {
+  font-family: kurale;
+	font-size: 1.2em;
+	margin: 12px 0;
+  font-weight: bold;
+  font-color: black;
+}
+
+
+.page-section#home {
+	background: url(https://static.pexels.com/photos/215/road-sky-clouds-cloudy.jpg) bottom center no-repeat;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  padding-top: 155px;
+}
+
+
+.page-section#about {
+	background: url(https://static.pexels.com/photos/434/sea-city-skyline-ocean.jpg) bottom center no-repeat;
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.page-section#portfolio {
+	background: url(https://static.pexels.com/photos/2422/sky-earth-galaxy-universe.jpg) bottom center no-repeat;
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.page-section#contact {
+	background: url(https://static.pexels.com/photos/6565/apple-desk-laptop-working.jpg) bottom center no-repeat;
+     background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+  
+
